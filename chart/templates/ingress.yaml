@@ -16,4 +16,4 @@ spec:
             service:
               name: go-server 
               port:
-                name: 8080
+                name: http
